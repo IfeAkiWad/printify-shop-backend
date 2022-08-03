@@ -32,3 +32,6 @@
 /config/master.key
 
 .env
+
+jwt_keypair.pub
+jwt_keypair
